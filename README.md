@@ -21,7 +21,7 @@ I build and own web products from the design layer down to the infrastructure. E
 
 - 🎨 Led the UI/UX redesign and a **50+ component design system** for a landscape-design SaaS (Angular)
 - ⚡ Built a **community-solar member portal single-handedly** — Next.js + React on a custom Odoo/Python backend, with Stripe payments and utility-data integrations
-- 🔊 Working in **voice AI** — built a text-to-speech service that wraps five providers (OpenAI, Google Cloud, AWS Polly, ElevenLabs, Deepgram) behind one interface, with full and streaming synthesis
+- 🔊 Built a multi-provider **text-to-speech service** for the org that wraps five providers (OpenAI, Google Cloud, AWS Polly, ElevenLabs, Deepgram) behind one interface, with full and streaming synthesis
 - 🧩 Comfortable owning architecture, setting engineering standards, and leading delivery
 - 💬 Ask me about Angular, React/Next.js, NestJS, or designing component systems that scale
 
