@@ -29,16 +29,6 @@ I build and own web products from the design layer down to the infrastructure. E
 
 [![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,tailwind,sass,nodejs,nest,express,python,postgres,mongodb,aws,git,github&perline=16)](#)
 
-### 🚀 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamusamashahid&show_icons=true&count_private=true&hide_border=true&title_color=0f766e&icon_color=0f766e" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamusamashahid&layout=compact&count_private=true&hide_border=true&title_color=0f766e" alt="top languages">
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=iamusamashahid&count_private=true&hide_border=true&ring=0f766e&fire=0f766e&currStreakLabel=0f766e" alt="streak">
-</p>
-
 ### 📫 Connect
 
 <a href="https://www.linkedin.com/in/iamusamashahid">
@@ -52,7 +42,3 @@ I build and own web products from the design layer down to the infrastructure. E
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamusamashahid/iamusamashahid/output/github-contribution-grid-snake.svg">
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/iamusamashahid/iamusamashahid/output/github-contribution-grid-snake.svg">
 </picture>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/iamusamashahid/count.svg?" alt="visitor count"/>
-</div>
