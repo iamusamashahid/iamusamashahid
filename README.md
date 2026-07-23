@@ -1,39 +1,58 @@
-# Hi there 👋, I'm Osama Shahid
+<h1 align="center">Hi, I'm Usama 👋</h1>
+<p align="center">
+  <b>Principal Software Engineer</b> · Full-stack product engineer<br>
+  Angular · React / Next.js · Node.js · NestJS · Python
+</p>
 
-**Senior Software Engineer**  
-A passionate full-stack engineer with expertise in Angular, React, Node.js, NestJS, and database management using MongoDB and PostgreSQL (PSQL).
+<p align="center">
+  <a href="https://www.linkedin.com/in/iamusamashahid">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:muhammadusama387@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f766e?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Based%20in-Lahore,%20PK-555?style=flat&logo=googlemaps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/Open%20to-Remote-0f766e?style=flat" alt="Remote">
+</p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,expressjs,nodejs,mongodb,nest,angular,postgres,redux,redis,visualstudio,vscode,aws,git,github,graphql&perline=13)](#)
+---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+### About
 
-[![My github stats](https://bad-apple-github-readme.vercel.app/api?username=OsamaShahid&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=dark&title_color=00b3ff)](#) 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=OsamaShahid&layout=compact&count_private=true&theme=dark&title_color=00b3ff)](#)
-[![My current streak](https://streak-stats.demolab.com/?user=OsamaShahid&count_private=true&theme=dark&title_color=00b3ff)](#)
+I build and own web products from the design layer down to the infrastructure. Eight years in, I work across the whole stack — UI/UX and design systems on the front, APIs, payments, and cloud on the back. Currently a Principal Software Engineer at **Mavric** (US-based), working remotely from Lahore.
 
+- 🎨 Led the UI/UX redesign and a **50+ component design system** for a landscape-design SaaS (Angular)
+- ⚡ Built a **community-solar member portal single-handedly** — Next.js + React on a custom Odoo/Python backend, with Stripe payments and utility-data integrations
+- 🔊 Working in **voice AI** — built a text-to-speech service that wraps five providers (OpenAI, Google Cloud, AWS Polly, ElevenLabs, Deepgram) behind one interface, with full and streaming synthesis
+- 🧩 Comfortable owning architecture, setting engineering standards, and leading delivery
+- 💬 Ask me about Angular, React/Next.js, NestJS, or designing component systems that scale
 
-## 📫 Connect with me:
+### 🛠️ Languages & Tools
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>](https://www.linkedin.com/in/usama-s-377964121/)
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />](mailto:muhammadusama387@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,tailwind,sass,nodejs,nest,express,python,postgres,mongodb,aws,git,github&perline=16)](#)
 
+### 🚀 GitHub Stats
 
-###
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamusamashahid&show_icons=true&count_private=true&hide_border=true&title_color=0f766e&icon_color=0f766e" alt="stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamusamashahid&layout=compact&count_private=true&hide_border=true&title_color=0f766e" alt="top languages">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=iamusamashahid&count_private=true&hide_border=true&ring=0f766e&fire=0f766e&currStreakLabel=0f766e" alt="streak">
+</p>
+
+### 📫 Connect
+
+<a href="https://www.linkedin.com/in/iamusamashahid">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38" height="38" alt="LinkedIn"/></a>
+&nbsp;
+<a href="mailto:muhammadusama387@gmail.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="38" height="38" alt="Gmail"/></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/OsamaShahid/OsamaShahid/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/OsamaShahid/OsamaShahid/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/OsamaShahid/OsamaShahid/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamusamashahid/iamusamashahid/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamusamashahid/iamusamashahid/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/iamusamashahid/iamusamashahid/output/github-contribution-grid-snake.svg">
 </picture>
 
-###
-
-
-###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/OsamaShahid/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/iamusamashahid/count.svg?" alt="visitor count"/>
 </div>
-
-###
