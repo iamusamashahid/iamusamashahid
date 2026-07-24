@@ -19,7 +19,7 @@
 
 I build and own web products from the design layer down to the infrastructure. Eight years in, I work across the whole stack — UI/UX and design systems on the front, APIs, payments, and cloud on the back. Currently a Principal Software Engineer at **Mavric** (US-based), working remotely from Lahore.
 
-- 🎨 Led the UI/UX redesign and a **50+ component design system** for a landscape-design SaaS (Angular)
+- 🎨 Implemented the refreshed **UI** for a landscape-design SaaS and grew its shared component library — **25+ new components** (50+ in total), in Angular
 - ⚡ Built a **community-solar member portal single-handedly** — Next.js + React on a custom Odoo/Python backend, with Stripe payments and utility-data integrations
 - 🔊 Built a multi-provider **text-to-speech service** for the org that wraps five providers (OpenAI, Google Cloud, AWS Polly, ElevenLabs, Deepgram) behind one interface, with full and streaming synthesis
 - 🧩 Comfortable owning architecture, setting engineering standards, and leading delivery
